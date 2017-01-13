@@ -1,0 +1,17 @@
+{
+  "name": "ciotdash",
+  "version": "0.0.1",
+  "description": "custom iot dashboard (mqtt)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --harmony index.js"
+  },
+  "author": "mert akengin, mustafa candan",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^2.2.1",
+    "node-session": "^1.2.1",
+    "sqlite3": "^3.1.8"
+  },
+  "devDependencies": {}
+}
